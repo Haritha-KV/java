@@ -1,5 +1,4 @@
 package com.program;
-//BankAccount.java
 class BankAccount {
  private int balance = 0;
 
